@@ -175,14 +175,14 @@ hr {
     }
 
     .hover-wrap {
-        width: 53%;
+        width: 65%;
         position: absolute;
         bottom: 300px;
-        left: 110px;
+        left: 64px;
     }
     
     .fake-hover {
-        width: 190%;
+        width: 499%;
         /* transform: translate(0px); */
     }
 }
